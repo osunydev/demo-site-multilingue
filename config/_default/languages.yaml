@@ -2,7 +2,7 @@
 
 fr:
   title: >-
-    Site multilingue
+    Site multilingue staging
   contentDir: content/fr
   languageCode: fr
   languageName: French
@@ -35,7 +35,7 @@ fr:
     volume: volumes
 en:
   title: >-
-    Site multilingue
+    Site multilingue staging
   contentDir: content/en
   languageCode: en
   languageName: English
