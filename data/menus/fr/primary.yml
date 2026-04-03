@@ -10,15 +10,6 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Revues scientifiques
-  slug: revues-scientifiques
-  target: "/fr/revues-scientifiques/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/journals"
-  file: content/fr/journals/_index.html
 - title: Agenda
   slug: agenda
   target: "/fr/agenda/"
@@ -28,6 +19,15 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
+- title: Revues scientifiques
+  slug: revues-scientifiques
+  target: "/fr/revues-scientifiques/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/journals"
+  file: content/fr/journals/_index.html
 - title: Projets
   slug: projets
   target: "/fr/projets/"
